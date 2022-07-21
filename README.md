@@ -19,7 +19,7 @@ The easiest way to start playing with code right away is to use [Binder](https:/
 3. From the command line: 
 
 ```
-repo2docker https://github.com/mikhailklassen/Mining-the-Social-Web-3rd-Edition
+repo2docker https://github.com/buaamse/2022_study
 ```
 
 This will create a Docker container from the repository directly. It takes a while to finish building the container, but once it's done, you will see a URL printed to screen. Copy and paste the URL into your browser.
